@@ -1,4 +1,4 @@
-<h2 align="left">Sobre mim 👩‍💻<br>Olá! Eu sou Samarah Lee, uma estudante de 18 anos apaixonada por tecnologia e inovação. Atualmente estou no terceiro semestre do curso de Ciências da Computação e sempre em busca de aprender e compartilhar conhecimentos. Meu objetivo é construir soluções criativas e impactantes para os desafios do mundo digital! 🚀<br>Habilidades 🌟</h2>
+<h2 align="left">Olá! Eu sou Samarah Lee, uma estudante de 18 anos apaixonada por tecnologia e inovação. Atualmente estou no terceiro semestre do curso de Ciências da Computação e sempre em busca de aprender e compartilhar conhecimentos. Meu objetivo é construir soluções criativas e impactantes para os desafios do mundo digital! 🚀<br>Habilidades 🌟</h2>
 
 ###
 
